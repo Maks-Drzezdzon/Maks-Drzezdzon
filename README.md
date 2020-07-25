@@ -1,6 +1,6 @@
 ### Well Met 👋
 
-  📫 How to reach me: [LinkedIn] (linkedin.com/in/maks-drzezdzon/)
+  📫 How to reach me: [LinkedIn](linkedin.com/in/maks-drzezdzon/)
   
   :scroll: I’m currently learning : R, AI/ML, PyTorch, TensorFlow,  Probability & Statistics, Bayes Statistics
   
