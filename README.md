@@ -1,5 +1,10 @@
-### Hi there 👋
+### Well Met 👋
 
+  📫 How to reach me: linkedin.com/in/maks-drzezdzon/
+  :scroll: I’m currently learning : R, AI/ML, PyTorch, TensorFlow,  Probability & Statistics, Bayes Statistics,
+  :briefcase: I’m currently working on : Masters Degree & Full Stack SWE @ IBM
+  :neckbeard: Fun fact: Rubiks cube solve Personal best of 25 seconds with Roux method
+  
 <!--
 **Maks-Drzezdzon/Maks-Drzezdzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +16,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://gist.github.com/rxaviers/7360908
 -->
