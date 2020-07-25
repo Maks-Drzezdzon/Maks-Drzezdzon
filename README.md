@@ -1,4 +1,4 @@
-<h>Well Met 👋 </h>
+<h2><b>Well Met</b> 👋</h2>
 
   📫 How to reach me: [LinkedIn](linkedin.com/in/maks-drzezdzon/)
   
