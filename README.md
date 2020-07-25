@@ -6,7 +6,7 @@
   
   :briefcase: I’m currently working on : Masters Degree & Full Stack SWE @ IBM
   
-  :neckbeard: Fun fact: Rubiks cube solve Personal best of 25 seconds with Roux method
+  :neckbeard: Fun fact: Personal best for Rubiks cube solve, 25 seconds with Roux method
   
 <!--
 **Maks-Drzezdzon/Maks-Drzezdzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
