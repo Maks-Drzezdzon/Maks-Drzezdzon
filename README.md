@@ -1,12 +1,14 @@
 <h2><b>Well Met</b> 👋</h2>
 
-  📫 How to reach me: [LinkedIn](linkedin.com/in/maks-drzezdzon/)
+  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maks-drzezdzon/)
   
   :scroll: I’m currently learning : R, AI/ML, PyTorch, TensorFlow,  Probability & Statistics, Bayes Statistics
   
   :briefcase: I’m currently working on : Masters Degree & <b>Full Stack SWE @ IBM</b>
   
-  :neckbeard: Fun fact: Personal best for Rubiks cube solve, 25 seconds with Roux method
+  :neckbeard: Fun fact: 
+  1) Personal best for Rubiks cube solve, 25 seconds with Roux method
+  2) [Creating my own programming language called Gohst, written in Go](https://github.com/Maks-Drzezdzon/Gohst) --On hold, due to personal circumstances 
   
 <!--
 **Maks-Drzezdzon/Maks-Drzezdzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
