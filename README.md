@@ -1,8 +1,11 @@
 ### Well Met 👋
 
-  📫 How to reach me: linkedin.com/in/maks-drzezdzon/
-  :scroll: I’m currently learning : R, AI/ML, PyTorch, TensorFlow,  Probability & Statistics, Bayes Statistics,
+  📫 How to reach me: [LinkedIn] (linkedin.com/in/maks-drzezdzon/)
+  
+  :scroll: I’m currently learning : R, AI/ML, PyTorch, TensorFlow,  Probability & Statistics, Bayes Statistics
+  
   :briefcase: I’m currently working on : Masters Degree & Full Stack SWE @ IBM
+  
   :neckbeard: Fun fact: Rubiks cube solve Personal best of 25 seconds with Roux method
   
 <!--
