@@ -4,7 +4,7 @@
   
   :scroll: I’m currently learning : R, AI/ML, PyTorch, TensorFlow,  Probability & Statistics, Bayes Statistics
   
-  :briefcase: I’m currently working on : Masters Degree & Full Stack SWE @ IBM
+  :briefcase: I’m currently working on : Masters Degree & <b>Full Stack SWE @ IBM</b>
   
   :neckbeard: Fun fact: Personal best for Rubiks cube solve, 25 seconds with Roux method
   
