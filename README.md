@@ -8,7 +8,7 @@
   
   :neckbeard: Fun fact: 
   1) Personal best for Rubiks cube solve, 25 seconds with Roux method
-  2) [Creating my own programming language called Gohst, written in Go](https://github.com/Maks-Drzezdzon/Gohst) --On hold, due to personal circumstances 
+  2) [Creating my own programming language called Gohst, written in Go](https://github.com/Maks-Drzezdzon/Gohst) -- On hold, due to personal circumstances 
   
 <!--
 **Maks-Drzezdzon/Maks-Drzezdzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
