@@ -6,6 +6,8 @@
   
   :briefcase: I’m currently working on : Masters Degree & <b>Full Stack SWE @ IBM</b>
   
+  <!-- :loudspeaker: -->
+  
   :neckbeard: Fun fact: 
   1) Personal best for Rubiks cube solve (3x3x3), 25 seconds with Roux method
   2) [Creating my own programming language called Gohst, written in Go](https://github.com/Maks-Drzezdzon/Gohst) -- On hold, due to personal circumstances 
