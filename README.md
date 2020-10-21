@@ -4,7 +4,7 @@
   
   :scroll: I’m currently learning : R, AI/ML, PyTorch, TensorFlow,  Probability & Statistics, Bayes Statistics
   
-  :briefcase: I’m currently working on : Masters Degree & <b>Full Stack SWE @ IBM</b>
+  :briefcase: I’m currently working on : Masters Degree & <b>SWE @ IBM</b>
   
   <!-- :loudspeaker: -->
   
