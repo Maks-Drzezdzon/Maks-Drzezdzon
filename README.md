@@ -2,7 +2,7 @@
 
   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maks-drzezdzon/)
   
-  :scroll: I’m currently learning : R, AI/ML, PyTorch, TensorFlow,  Probability & Statistics, Bayes Statistics
+  :scroll: I’m currently learning : R, ML, PyTorch, TensorFlow,  Probability & Statistics, Bayes Statistics
   
   :briefcase: I’m currently working on : Masters Degree & <b>SWE @ IBM</b>
   
