@@ -12,9 +12,6 @@
   1) Personal best for Rubiks cube solve (3x3x3), 25 seconds with Roux method
   2) [Creating my own programming language called Gohst, written in Go](https://github.com/Maks-Drzezdzon/Gohst) -- On hold, due to personal circumstances 
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/maks-drzezdzon">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maks-drzezdzon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
