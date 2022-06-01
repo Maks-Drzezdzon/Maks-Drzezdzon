@@ -1,10 +1,8 @@
 <h2><b>Well Met</b> 👋</h2>
 
   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maks-drzezdzon/)
-  
-  :scroll: I’m currently : Doing an MSc 
-  
-  :briefcase: I’m currently working on : Masters Degree & <b>SWE @ IBM</b>
+    
+  :scroll: I’m currently working on : Masters Degree & <b>SWE @ IBM</b>
   
   <!-- :loudspeaker: -->
   
