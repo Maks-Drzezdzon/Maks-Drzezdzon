@@ -11,7 +11,17 @@
   :neckbeard: Fun fact: 
   1) Personal best for Rubiks cube solve (3x3x3), 25 seconds with Roux method
   2) [Creating my own programming language called Gohst, written in Go](https://github.com/Maks-Drzezdzon/Gohst) -- On hold, due to personal circumstances 
-  
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maks-drzezdzon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+ 
 <!--
 **Maks-Drzezdzon/Maks-Drzezdzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
