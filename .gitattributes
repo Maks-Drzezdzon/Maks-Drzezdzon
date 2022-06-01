@@ -1,1 +1,2 @@
 *.html linguist-vendored
+*.Jupyter Notebook linguist-language=Python
