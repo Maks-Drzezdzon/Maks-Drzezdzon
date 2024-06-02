@@ -2,7 +2,7 @@
 
   📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maks-drzezdzon/)
     
-  :scroll: I’m currently working on : PhD & <b>SWE @ Merative</b>
+  :scroll: I’m currently working on : PhD & <b>SWE @ IBM</b>
   
   <!-- :loudspeaker: -->
   
